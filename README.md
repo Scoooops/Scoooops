@@ -17,9 +17,6 @@ INFO1113 Object-Orientated Programming (Semester 2 2021) - an introductory cours
 - Assignment 1: A mock stock exchange
 - Assignment 2: A Demoliton Man game applet using gradle
 
-ELEC1601 Introduction to Computer Systems (Semester 2 2021) - an introduction into how computers work, from binary encoding to logic gates to memory:
-- Rydial/ELEC1601_M12_15_Group_Project: A maze solving robot coded in C (in groups of 5), originally supposed to be a real arduino robot (done online due to covid)
-
 INFO2222 Computing 2 Usability and Security (Semester 1 2022) - a course exploring computing security and usability and how they interact:
 - Assignment 1: A half semester assignment done in pairs, creating a website using python bottle, with an emphasis on security over usability
 
