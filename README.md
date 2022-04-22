@@ -13,7 +13,7 @@ INFO1111 Computing 1A Professionalism (Semester 1 2021) - an introduction to the
 INFO1112 Computing 1B OS and Network Platforms (Semester 2 2021) - a course on basic Bash use, networking, OS, and a some security practices:
 - Assignment 1: A messaging server using sockets
 
-INFO1113 Object-Orientated Programming (Semester 2 2021) - an introductory course into OOP using Java:
+INFO1113 Object-Orientated Programming (Semester 2 2021) - an introductory course in OOP using Java:
 - Assignment 1: A mock stock exchange
 - Assignment 2: A Demoliton Man game applet using gradle
 
