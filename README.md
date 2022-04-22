@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Scoooops (Cooper). \
 This is my GitHub Respository containing all of the relevant projects I have completing thus far in my Bachelor of Advanced Computing Degree at USYD.
+
 Outline of my coding-related subjects and their relevant assignments:\
+\
 INFO1110 Introduction to Programming (Semester 1 2021) - an introductory python course:
 - Assignment 1: A simple text based movie booking system
 - Assingment 2: A text based board game
